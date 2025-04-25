@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Audio files
+*.wav
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp 
